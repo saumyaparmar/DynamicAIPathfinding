@@ -6,13 +6,16 @@ Inspired by _A Plague Tale: Innocence_ by Asobo Studios, a rat swarm AI system i
 
 This hybrid approach combines goal-driven flow fields, local avoidance, and group dynamics, creating a responsive and immersive AI experience. The system adapts to player movement, making it ideal for real-time game environments that require complex, dynamic AI pathfinding.
 
-In this document, I will just be explaining what methods that I have used for AI Pathfinding of NavAgents. You can run the executable file or watch the youtube video to see the showcase.
-
 [YOUTUBE LINK TO DEMO](https://youtu.be/Exb5lNoAV9Y?si=_Js-mx4dGaEeYzhg)
+
+
+[LINK TO BUILD EXECUTABLE](https://drive.google.com/file/d/1vWgNkWoEk6IvHWHAB0tKlxFfcuJz4W2C/view?usp=sharing)
 
 I don't provide codes for my project online, this is just to explain in an overview what tehcniques I have used to implement this project.
 
-If you want a detailed research document about my project here is the link given on access to view, give me a valid reason in the message for me to give you access😃 : https://drive.google.com/file/d/1RPDCTwuyIj0FDKya6IPvtPuAcMLKsa41/view?usp=drive_link 
+If you want a detailed research document about my project here is the link😃 : 
+
+[RESEARCH DOCUMENT LINK](https://drive.google.com/file/d/1RPDCTwuyIj0FDKya6IPvtPuAcMLKsa41/view?usp=drive_link) 
 
 
 
